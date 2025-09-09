@@ -3,7 +3,7 @@
 Static registry used by the **Workbench** app to list and install plugins.
 
 ## Registry URL (paste this into Workbench)
-`https://<TateMat99>.github.io/workbench-registry/registry/v1/index.json`
+`https://TateMat99.github.io/workbench-registry/registry/v1/index.json`
 
 ## Schema (v1)
 Top-level:
