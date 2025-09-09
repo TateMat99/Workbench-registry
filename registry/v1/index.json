@@ -1,0 +1,20 @@
+{
+  "registry_version": "1",
+  "plugins": [
+    {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "0.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+  ]
+}
