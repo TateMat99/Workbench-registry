@@ -15,7 +15,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool"
-    }
+    },
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
@@ -30,7 +30,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool"
-    }
+    },
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
@@ -45,7 +45,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool"
-    }
+    },
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
@@ -60,7 +60,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool"
-    }
+    },
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
@@ -75,7 +75,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool"
-    }
+    },
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
