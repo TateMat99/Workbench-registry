@@ -4,7 +4,82 @@
     {
       "id": "sample-plugin",
       "name": "Sample Plugin",
-      "version": "0.1.0",
+      "version": "6.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+        {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "5.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+        {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "4.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+        {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "3.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+        {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "2.1.0",
+      "core_api": ">=1.0,<2.0",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "homepage": "",
+      "changelog": "",
+      "author": "Tate",
+      "license": "MIT",
+      "run_mode": "tool"
+    }
+        {
+      "id": "sample-plugin",
+      "name": "Sample Plugin",
+      "version": "1.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
       "wheel_url": "",
