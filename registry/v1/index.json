@@ -2,8 +2,8 @@
   "registry_version": "1",
   "plugins": [
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin1",
+      "name": "Sample Plugin1",
       "version": "6.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -17,8 +17,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin2",
+      "name": "Sample Plugin2",
       "version": "5.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -32,8 +32,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin3",
+      "name": "Sample Plugin3",
       "version": "4.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -47,8 +47,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin4",
+      "name": "Sample Plugin4",
       "version": "3.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -62,8 +62,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin5",
+      "name": "Sample Plugin5",
       "version": "2.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -77,8 +77,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin6",
+      "name": "Sample Plugin6",
       "version": "1.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -92,8 +92,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin7",
+      "name": "Sample Plugin7",
       "version": "1.16.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -107,8 +107,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin8",
+      "name": "Sample Plugin8",
       "version": "1.5.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -122,8 +122,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin9",
+      "name": "Sample Plugin9",
       "version": "1.4.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -137,8 +137,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin10",
+      "name": "Sample Plugin10",
       "version": "1.3.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
@@ -152,8 +152,8 @@
       "run_mode": "tool"
     },
     {
-      "id": "sample-plugin",
-      "name": "Sample Plugin",
+      "id": "sample-plugin11",
+      "name": "Sample Plugin11",
       "version": "1.2.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
