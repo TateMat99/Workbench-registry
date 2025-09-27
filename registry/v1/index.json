@@ -62,7 +62,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin5",
@@ -77,7 +78,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin6",
@@ -92,7 +94,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin7",
@@ -107,7 +110,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin8",
@@ -122,7 +126,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin9",
@@ -137,7 +142,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin10",
@@ -152,7 +158,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin11",
@@ -167,7 +174,8 @@
       "changelog": "",
       "author": "Tate",
       "license": "MIT",
-      "run_mode": "tool"
+      "run_mode": "tool",
+      "icon_key": "pack/blue/default_plugin.svg"
     }
   ]
 }
