@@ -15,7 +15,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool",
-      "icon_key": "pack/blue/pdf_tools.svg"
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin2",
@@ -31,7 +31,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool",
-      "icon_key": "pack/blue/pdf_tools.svg"
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin3",
@@ -47,7 +47,7 @@
       "author": "Tate",
       "license": "MIT",
       "run_mode": "tool",
-      "icon_key": "pack/blue/pdf_tools.svg"
+      "icon_key": "pack/blue/default_plugin.svg"
     },
     {
       "id": "sample-plugin4",
