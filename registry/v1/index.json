@@ -2,13 +2,13 @@
   "registry_version": "1",
   "plugins": [
     {
-      "id": "color_picker",
-      "name": "Color Picker",
-      "version": "1.0",
+      "id": "colorpicker",
+      "name": "ColorPicker",
+      "version": "0.1.0",
       "core_api": ">=1.0,<2.0",
       "summary": "Example entry to test Workbench Store integration.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/plugin/colorpicker-0.1.0-py3-none-any.whl",
-      "sha256": "sha256:65495171f13129dba7717dcb0ff25fa532de8cdb659cc6fa09a08170b6291d44",
+      "sha256": "65495171f13129dba7717dcb0ff25fa532de8cdb659cc6fa09a08170b6291d44",
       "icon_url": "",
       "homepage": "",
       "changelog": "",
