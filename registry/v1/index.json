@@ -2,7 +2,7 @@
   "registry_version": "1",
   "plugins": [
     {
-      "id": "Color_picker",
+      "id": "color_picker",
       "name": "Color Picker",
       "version": "1.0",
       "core_api": ">=1.0,<2.0",
