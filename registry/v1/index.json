@@ -1,0 +1,15 @@
+{
+  "registry_version": "1",
+  "plugins": [
+    {
+      "id": "colorpicker",
+      "name": "ColorPicker",
+      "version": "0.1.0",
+      "author": "Tate",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "icon_url": "",
+      "background_allowed": "false"
+    }
+  ]
+}
