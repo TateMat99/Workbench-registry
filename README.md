@@ -3,7 +3,7 @@
 minimal registry for discovering and installing Workbench plugins.
 
 ## Endpoint
-``
+`https://tatemat99.github.io/Workbench-registry/registry/v1/index.json`
 
 ## Overview
 - The registry is a single JSON document.
