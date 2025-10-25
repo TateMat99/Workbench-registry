@@ -8,7 +8,7 @@
       "author": "Tate",
       "summary": "Example entry to test Workbench Store integration.",
       "wheel_url": "",
-      "icon_url": "",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/plugin/icon.ico",
       "background_allowed": "false"
     }
   ]
