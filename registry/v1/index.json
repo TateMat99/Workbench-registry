@@ -10,6 +10,16 @@
       "wheel_url": "",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/plugin/icon.ico",
       "background_allowed": "false"
-    }
+    },
+    {
+      "id": "emoji",
+      "name": "Emoji",
+      "version": "1.1.0",
+      "author": "Tate",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "icon_url": "",
+      "background_allowed": "false"
+    },
   ]
 }
