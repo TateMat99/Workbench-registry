@@ -27,8 +27,8 @@
       "version": "1.0.0",
       "author": "Tate",
       "summary": "Example entry to test Workbench Store integration.",
-      "wheel_url": "",
-      "icon_url": "",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ScreenRecorderPlugin/screenrecorder-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ScreenRecorderPlugin/icon.ico",
       "background_allowed": "false"
     }
   ]
