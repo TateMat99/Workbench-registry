@@ -22,7 +22,7 @@
       "background_allowed": "false"
     },
     {
-      "id": "screenRecorder",
+      "id": "screenrecorder",
       "name": "ScreenRecorder",
       "version": "1.0.0",
       "author": "Tate",
