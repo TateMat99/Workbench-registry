@@ -14,7 +14,7 @@
     {
       "id": "screenrecorder",
       "name": "ScreenRecorder",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "Tate",
       "summary": "Example entry to test Workbench Store integration.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/screenrecorder-1.0.0-py3-none-any.whl",
