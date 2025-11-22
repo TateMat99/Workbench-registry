@@ -7,8 +7,8 @@
       "version": "1.0.0",
       "author": "Tate",
       "summary": "Pick and manage colors.",
-      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/plugin/colorpicker-1.0.0-py3-none-any.whl",
-      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/plugin/icon.ico",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/colorpickerplugin/colorpicker-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/colorpickerplugin/icon.ico",
       "background_allowed": "false"
     },
     {
@@ -16,7 +16,7 @@
       "name": "ScreenRecorder",
       "version": "1.0.0",
       "author": "Tate",
-      "summary": "Example entry to test Workbench Store integration.",
+      "summary": "Basic screen Recorder with custom region selection",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/screenrecorder-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/icon.ico",
       "background_allowed": "false"
@@ -26,9 +26,69 @@
       "name": "Emoji",
       "version": "1.0.0",
       "author": "Tate",
-      "summary": "Example entry to test Workbench Store integration.",
-      "wheel_url": "",
-      "icon_url": "",
+      "summary": "Search and copy emojis to your clipboard",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/emojiplugin/emoji-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/emojiplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "fileconverter",
+      "name": "FileConverter",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Convert files to different formats.",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/fileconverterplugin/fileconverter-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/fileconverterplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "filediff",
+      "name": "FileDiff",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Compare two text files side-by-side",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filediffplugin/filediff-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filediffplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "filevalidator",
+      "name": "FileValidator",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Validate CSV and JSON files",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filevalidatorplugin/filevalidator-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filevalidatorplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "imagescaler",
+      "name": "ImageScaler",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Scale images by percentage or custom dimensions.",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/imagescaler-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/icon.ico",
+      "background_allowed": "false"
+    },
+        {
+      "id": "myip",
+      "name": "MyIP",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Display public and local network IP addresses",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/myipplugin/myip-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/myipplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "pickwheel",
+      "name": "PickWheel",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Spinning Pick Wheel",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/pickwheel-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/icon.ico",
       "background_allowed": "false"
     }
   ]
