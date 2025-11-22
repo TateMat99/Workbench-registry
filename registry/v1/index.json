@@ -20,6 +20,16 @@
       "wheel_url": "",
       "icon_url": "",
       "background_allowed": "false"
+    },
+    {
+      "id": "ScreenRecorder",
+      "name": "ScreenRecorder",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Example entry to test Workbench Store integration.",
+      "wheel_url": "",
+      "icon_url": "",
+      "background_allowed": "false"
     }
   ]
 }
