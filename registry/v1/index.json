@@ -90,6 +90,46 @@
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/pickwheel-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/icon.ico",
       "background_allowed": "false"
+    },
+        {
+      "id": "markdowneditor",
+      "name": "MarkdownEditor",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Edit markdown files",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/markdowneditorplugin/markdowneditor-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/markdowneditorplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "rolldice",
+      "name": "RollDice",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Roll customizable dice",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/rolldiceplugin/rolldice-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/rolldiceplugin/icon.ico",
+      "background_allowed": "false"
+    },
+        {
+      "id": "virustotal",
+      "name": "VirusTotal",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Scan files and URLs for malware",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/virustotalplugin/virustotal-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/virustotalplugin/icon.ico",
+      "background_allowed": "false"
+    },
+    {
+      "id": "texttospeech",
+      "name": "TextToSpeech",
+      "version": "1.0.0",
+      "author": "Tate",
+      "summary": "Convert text to speech",
+      "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ttsplugin/texttospeech-1.0.0-py3-none-any.whl",
+      "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ttsplugin/icon.ico",
+      "background_allowed": "false"
     }
   ]
 }
