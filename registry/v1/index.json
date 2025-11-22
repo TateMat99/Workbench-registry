@@ -12,16 +12,6 @@
       "background_allowed": "false"
     },
     {
-      "id": "emoji",
-      "name": "Emoji",
-      "version": "1.1.0",
-      "author": "Tate",
-      "summary": "Example entry to test Workbench Store integration.",
-      "wheel_url": "",
-      "icon_url": "",
-      "background_allowed": "false"
-    },
-    {
       "id": "screenrecorder",
       "name": "ScreenRecorder",
       "version": "1.0.0",
