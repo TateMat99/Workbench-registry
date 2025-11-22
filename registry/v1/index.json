@@ -16,7 +16,7 @@
       "name": "ScreenRecorder",
       "version": "1.0.0",
       "author": "Tate",
-      "summary": "Basic screen Recorder with custom region selection",
+      "summary": "Basic screen recorder.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/screenrecorder-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/icon.ico",
       "background_allowed": "false"
@@ -66,7 +66,7 @@
       "name": "ImageScaler",
       "version": "1.0.0",
       "author": "Tate",
-      "summary": "Scale images by percentage or custom dimensions.",
+      "summary": "Scale images by percentage.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/imagescaler-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/icon.ico",
       "background_allowed": "false"
