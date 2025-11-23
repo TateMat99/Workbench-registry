@@ -9,7 +9,7 @@
       "summary": "Pick and manage colors.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/colorpickerplugin/colorpicker-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/colorpickerplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "screenrecorder",
@@ -19,7 +19,7 @@
       "summary": "Basic screen recorder.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/screenrecorder-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/screenrecorderplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": true
     },
     {
       "id": "emoji",
@@ -29,7 +29,7 @@
       "summary": "Search and copy emojis to your clipboard",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/emojiplugin/emoji-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/emojiplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "fileconverter",
@@ -39,7 +39,7 @@
       "summary": "Convert files to different formats.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/fileconverterplugin/fileconverter-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/fileconverterplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": true
     },
     {
       "id": "filediff",
@@ -49,7 +49,7 @@
       "summary": "Compare two text files side-by-side",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filediffplugin/filediff-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filediffplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "filevalidator",
@@ -59,7 +59,7 @@
       "summary": "Validate CSV and JSON files",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filevalidatorplugin/filevalidator-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/filevalidatorplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "imagescaler",
@@ -69,7 +69,7 @@
       "summary": "Scale images by percentage.",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/imagescaler-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/imagescalerplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
         {
       "id": "myip",
@@ -79,7 +79,7 @@
       "summary": "Display public and local network IP addresses",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/myipplugin/myip-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/myipplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "pickwheel",
@@ -89,7 +89,7 @@
       "summary": "Spinning Pick Wheel",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/pickwheel-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/pickwheelplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
         {
       "id": "markdowneditor",
@@ -99,7 +99,7 @@
       "summary": "Edit markdown files",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/markdowneditorplugin/markdowneditor-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/markdowneditorplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "rolldice",
@@ -109,7 +109,7 @@
       "summary": "Roll customizable dice",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/rolldiceplugin/rolldice-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/rolldiceplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
         {
       "id": "virustotal",
@@ -119,7 +119,7 @@
       "summary": "Scan files and URLs for malware",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/virustotalplugin/virustotal-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/virustotalplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     },
     {
       "id": "texttospeech",
@@ -129,7 +129,7 @@
       "summary": "Convert text to speech",
       "wheel_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ttsplugin/texttospeech-1.0.0-py3-none-any.whl",
       "icon_url": "https://github.com/TateMat99/Workbench-registry/releases/download/ttsplugin/icon.ico",
-      "background_allowed": "false"
+      "background_allowed": false
     }
   ]
 }
