@@ -1,6 +1,7 @@
 # Workbench Plugin Registry
 
 minimal registry for discovering and installing Workbench plugins.
+Workbench Repo : https://github.com/TateMat99/Workbench
 
 ## Endpoint
 `https://tatemat99.github.io/Workbench-registry/registry/v1/index.json`
